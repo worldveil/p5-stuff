@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/ltree.png" style="height: 500px;">
+    <img src="img/ltree.png" style="height: 300px;">
 </p>
 
 ## Setup
