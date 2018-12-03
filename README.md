@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/ltree.png" style="height: 300px;">
+    <img src="img/ltree.png" height="500">
 </p>
 
 ## Setup
@@ -41,6 +41,6 @@ Then open up the browser [`http://localhost:7890`](http://localhost:7890).
 Server will automatically reload the browser whenever you make changes:
 
 <p align="center">
-    <img src="img/collection_view.png" style="height: 500px;">
+    <img src="img/collection_view.png" height="500">
 </p>
 
