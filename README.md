@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="img/ltree.png">
+</p>
+
 ## Setup
 
 ```bash
@@ -5,6 +9,8 @@ sh install.sh
 ```
 
 ## Creating a new collection / projects within it
+
+Use the wonderful [`p5-manager`](https://www.npmjs.com/package/p5-manager) package.
 
 ```bash
 # create a new collection
@@ -32,5 +38,9 @@ $ p5 server --port 7890
 
 Then open up the browser [`http://localhost:7890`](http://localhost:7890).
 
-Server will automatically reload the browser whenever you make changes. 
+Server will automatically reload the browser whenever you make changes:
+
+<p align="center">
+    <img src="img/ltree.png">
+</p>
 
