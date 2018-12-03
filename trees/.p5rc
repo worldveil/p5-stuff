@@ -1,0 +1,8 @@
+{
+  "name": "trees",
+  "projects": [
+    "fractal_v1",
+    "object_oriented_v2",
+    "ltree_system_v3"
+  ]
+}
